@@ -51,18 +51,21 @@ Write-Host ""
 Write-Host "🎉 Installation complete!" -ForegroundColor Green
 Write-Host ""
 Write-Host "================================" -ForegroundColor Cyan
-Write-Host "다음 단계 (Next steps):" -ForegroundColor Cyan
+Write-Host "다음 단계 (3분이면 끝):" -ForegroundColor Cyan
 Write-Host "================================" -ForegroundColor Cyan
 Write-Host ""
 Write-Host "1. 작업 폴더로 이동:" -ForegroundColor White
 Write-Host "   cd \path\to\your\workspace" -ForegroundColor Gray
 Write-Host ""
-Write-Host "2. CLAUDE.md 템플릿 복사:" -ForegroundColor White
-Write-Host "   Copy-Item $tempDir\templates\CLAUDE.md.template .\CLAUDE.md" -ForegroundColor Gray
+Write-Host "2. Claude Code 열고 다음 명령 실행:" -ForegroundColor White
+Write-Host "   /시작" -ForegroundColor Green
 Write-Host ""
-Write-Host "3. CLAUDE.md 열어서 본인 정보 입력 (이름, 학교, 진로 등)" -ForegroundColor White
+Write-Host "   대화형 셋업이 시작됨:" -ForegroundColor Gray
+Write-Host "   - 8가지 질문 (이름, 진로, 마감 등)" -ForegroundColor Gray
+Write-Host "   - CLAUDE.md 자동 생성" -ForegroundColor Gray
+Write-Host "   - CEO 모드 적용 (추상적 답변 거부)" -ForegroundColor Gray
 Write-Host ""
-Write-Host "4. Claude Code 열고 첫 명령어 시도:" -ForegroundColor White
+Write-Host "3. 셋업 완료 후 첫 명령어:" -ForegroundColor White
 Write-Host "   /오늘" -ForegroundColor Gray
 Write-Host ""
 Write-Host "================================" -ForegroundColor Cyan
@@ -70,6 +73,7 @@ Write-Host ""
 
 # 사용 가능한 슬래시 커맨드 목록
 Write-Host "📝 사용 가능한 슬래시 커맨드:" -ForegroundColor Yellow
+Write-Host "  /start    /시작     - 첫 셋업 (대화형 CLAUDE.md 생성) ⭐"
 Write-Host "  /morning  /오늘     - 데일리 브리핑"
 Write-Host "  /jobs     /취업     - 잡 헌팅"
 Write-Host "  /coverletter /자소서 - 자소서 자동 초안"
