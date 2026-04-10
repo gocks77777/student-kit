@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Env
+.env
+.env.local
+
+# User-specific (these should NOT be in the repo, only as templates)
+CLAUDE.md
+plan.md
+deadlines.md
+
+# Personal cover letters / outputs
+coverletter_*.md
+interview_prep_*.md
+paper_summary_*.md
+weekly_*.md
