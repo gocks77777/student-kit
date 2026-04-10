@@ -141,7 +141,7 @@ cp templates/CLAUDE.md.template ~/your-project/CLAUDE.md
 - ❌ "천천히 생각해봐"
 - ✅ "10년 후 너가 80살이 됐어. 이 결정 후회해 안 해?"
 
-자세한 원칙: [commands/_ceo_principles.md](commands/_ceo_principles.md)
+자세한 원칙: [docs/ceo_principles.md](docs/ceo_principles.md)
 
 ---
 

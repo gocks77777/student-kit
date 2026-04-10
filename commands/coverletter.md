@@ -5,7 +5,7 @@ argument-hint: <회사명>
 
 # /coverletter - 자소서 자동 초안 (CEO 모드)
 
-> CEO 모드 적용 — `commands/_ceo_principles.md` 참고
+> CEO 모드 적용 — `docs/ceo_principles.md` 참고
 
 지원 회사: **$ARGUMENTS**
 

@@ -33,7 +33,7 @@ student-kit에 기여해주셔서 감사합니다! 🎉
 
 ### 1. CEO 모드 필수
 모든 슬래시 커맨드는 `Phase 0: CEO Challenge` 를 가져야 합니다.
-`commands/_ceo_principles.md` 를 참고하세요.
+`docs/ceo_principles.md` 를 참고하세요.
 
 ### 2. 파일 구조
 ```markdown
@@ -44,7 +44,7 @@ argument-hint: <인자 형식> (있는 경우)
 
 # /command-name - 짧은 설명
 
-> CEO 모드 적용 — `commands/_ceo_principles.md` 참고
+> CEO 모드 적용 — `docs/ceo_principles.md` 참고
 
 ## Phase 0: CEO Challenge (질문 N개)
 [2~3개 날카로운 질문]

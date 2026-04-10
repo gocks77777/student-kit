@@ -5,7 +5,7 @@ argument-hint: <논문 URL 또는 논문명>
 
 # /paper - 논문 학생 친화 요약 (CEO 모드)
 
-> CEO 모드 적용 — `commands/_ceo_principles.md` 참고
+> CEO 모드 적용 — `docs/ceo_principles.md` 참고
 
 논문: **$ARGUMENTS**
 

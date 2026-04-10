@@ -5,7 +5,7 @@ argument-hint: <회사명>
 
 # /interview-prep - 면접 대비 (CEO 모드)
 
-> CEO 모드 적용 — `commands/_ceo_principles.md` 참고
+> CEO 모드 적용 — `docs/ceo_principles.md` 참고
 
 면접 회사: **$ARGUMENTS**
 

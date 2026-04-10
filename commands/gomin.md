@@ -6,7 +6,7 @@ argument-hint: <한 줄 고민> (선택)
 # /gomin (/고민) - 구조적 사고로 명확함 찾기
 
 > ★ student-kit의 시그니처 명령어
-> CEO 모드 적용 — `commands/_ceo_principles.md` 참고
+> CEO 모드 적용 — `docs/ceo_principles.md` 참고
 
 ---
 

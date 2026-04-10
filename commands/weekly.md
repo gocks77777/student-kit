@@ -4,7 +4,7 @@ description: 주간 회고 + 다음주 계획 (CEO 모드)
 
 # /weekly - 주간 회고 (CEO 모드)
 
-> CEO 모드 적용 — `commands/_ceo_principles.md` 참고
+> CEO 모드 적용 — `docs/ceo_principles.md` 참고
 
 ---
 
