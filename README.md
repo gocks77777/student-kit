@@ -219,7 +219,7 @@ cp commands/*.md /your-project/.claude/commands/
 
 ### 4. 시간 압박 (Time Inversion)
 - ❌ "천천히 생각해봐"
-- ✅ "10년 후 너가 80살이 됐어. 이 결정 후회해 안 해?"
+- ✅ "80살의 네가 이 결정을 돌아봤을 때, 후회할 것 같아?"
 
 자세한 원칙: [docs/ceo_principles.md](docs/ceo_principles.md)
 
